@@ -1,5 +1,6 @@
  Hi there 👋
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 <!--
 **Inztc/inztc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
