@@ -1,6 +1,5 @@
- Hi there 👋
+ Hi there 👋 There is nothing just yet. Will reveal them soon!
 
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 <!--
 **Inztc/inztc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
